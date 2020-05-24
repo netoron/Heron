@@ -1,2 +1,2 @@
 # Heron
-Programa Heron
+Área de um triângulo
